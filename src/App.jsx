@@ -88,7 +88,7 @@ export default function App() {
         <DurationSlider
           label="Focus"
           value={focusDuration}
-          min={1}
+          min={5}
           max={60}
           onChange={(v) => {
             setFocusDuration(v);
