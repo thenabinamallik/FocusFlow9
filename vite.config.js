@@ -11,8 +11,8 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.svg', 'robots.txt', 'icons/*'],
       manifest: {
-        name: 'Pomodoro Timer',
-        short_name: 'Pomodoro',
+        name: 'FocusFlow9',
+        short_name: 'focusflow9',
         start_url: '.',
         display: 'standalone',
         background_color: '#ffffff',
